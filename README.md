@@ -18,4 +18,5 @@ This project employs an AI-driven approach to predict customer churn for banking
 • Regular updates with new data to maintain and enhance model performance.
 • Expansion of the project to include additional customer metrics and financial indicators.
 
+
 This project underscores the potential of AI and machine learning in transforming customer retention strategies within the banking sector by offering deep insights and effective tools to manage customer relationships.
