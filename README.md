@@ -1,5 +1,5 @@
-## Bank Customer Churn Prediction
-This project employs an AI-driven approach to predict customer churn for banking institutions by analyzing customer demographics and financial data. The goal is to assess the risk of customer churn by evaluating various factors such as credit score, account balance, and customer activity. By leveraging machine learning and deep learning models, the project aims to provide valuable insights into customer behavior, enabling banks to take proactive measures to retain at-risk customers.
+# Bank Customer Churn Prediction Using Machine Learning and Deep Learning
+## This project employs an AI-driven approach to predict customer churn for banking institutions by analyzing customer demographics and financial data. The goal is to assess the risk of customer churn by evaluating various factors such as credit score, account balance, and customer activity. By leveraging machine learning and deep learning models, the project aims to provide valuable insights into customer behavior, enabling banks to take proactive measures to retain at-risk customers.
 
 ### Key Features:
 • Data Analysis: Comprehensive examination of customer demographics and financial data to identify patterns and trends associated with churn.
@@ -27,4 +27,4 @@ This project employs an AI-driven approach to predict customer churn for banking
 • Expansion of the project to include additional customer metrics and financial indicators.
 
 
-##### This project underscores the potential of AI and machine learning in transforming customer retention strategies within the banking sector by offering deep insights and effective tools to manage customer relationships.
+### This project underscores the potential of AI and machine learning in transforming customer retention strategies within the banking sector by offering deep insights and effective tools to manage customer relationships.
